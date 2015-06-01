@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/list_item_post_vertical_margin"
+        android:layout_marginBottom="@dimen/list_item_post_vertical_margin"
+        android:layout_marginStart="@dimen/list_item_post_horizontal_margin"
+        android:layout_marginEnd="@dimen/list_item_post_horizontal_margin"
+        android:background="@drawable/list_item_post_bg">
+
+        <!--<TextView-->
+            <!--android:id="@+id/list_item_post_id"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:paddingTop="4dp"-->
+            <!--android:paddingStart="8dp"-->
+            <!--android:paddingEnd="8dp"-->
+            <!--android:text="@string/dummy"-->
+            <!--android:textSize="14sp"-->
+            <!--android:textColor="@color/post_list_item_text_id"-->
+            <!--android:layout_gravity="start|top" />-->
+
+        <TextView
+            android:id="@+id/list_item_post_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dummy"
+            android:textSize="18sp"
+            android:textColor="@color/post_list_item_text"
+            android:paddingTop="40dp"
+            android:paddingBottom="40dp"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:id="@+id/list_item_post_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="8dp"
+            android:paddingStart="12dp"
+            android:paddingEnd="10dp"
+            android:text="@string/dummy"
+            android:textColor="@color/post_list_item_text_date"
+            android:textSize="12sp"
+            android:background="@drawable/post_text_bg_date"
+            android:layout_gravity="end|top" />
+    </FrameLayout>
+
+</RelativeLayout>

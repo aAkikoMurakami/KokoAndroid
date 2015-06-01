@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Koko</string>
+    <string name="splash_title">Koko for Android</string>
+
+    <!--共通-->
+    <string name="settings">Settings</string>
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer close</string>
+    <string name="now_loading">Now loading&#8230;</string>
+
+    <!--メイン画面-->
+    <string name="no_beacons_found">No beacons found.</string>
+    <string name="server_error">Server error.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="board_is_empty">Board is empty.</string>
+
+    <!--投稿画面-->
+    <string name="post_activity_title">New post</string>
+    <string name="input_message">Input message</string>
+    <string name="send">Send</string>
+    <string name="post_is_empty">Post is empty.</string>
+
+    <!--設定画面-->
+    <string name="app_info">App info</string>
+    <string name="license_info">License info</string>
+    <string name="version_info">Version info</string>
+
+    <!--ライセンス画面-->
+    <string name="license_koko">Koko for Android</string>
+    <string name="license_koko_copyright">Copyright &#169; 2015 ACCESS CO., LTD. All rights reserved.</string>
+    <string name="license_koko_notice">This app is built using open source software:</string>
+    <string name="license_aosp">Android Open Source Project</string>
+    <string name="license_aosp_url">http://source.android.com/</string>
+
+    <string name="title_activity_beacon_test">BeaconTestActivity</string>
+
+    <string name="dummy">DUMMY</string>
+
+    <!--デバッグ用テキスト-->
+    <string name="activity_beacon_test">Beacon Test Activity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_preference">PreferenceActivity</string>
+    <string name="title_activity_license">LicenseActivity</string>
+    <string name="title_activity_post_actvity">PostActvity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

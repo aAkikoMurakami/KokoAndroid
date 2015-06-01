@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+
+        <!-- Toolbar styles -->
+        <item name="actionBarStyle">@style/Generic.Widget.ActionBar</item>
+        <item name="toolbarStyle">@style/Generic.Widget.Toolbar</item>
+        <item name="toolbarNavigationButtonStyle">@style/Generic.Widget.Toolbar.Button.Navigation</item>
+        <item name="actionOverflowButtonStyle">@style/Generic.Widget.ActionButton.Overflow</item>
+
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeStyle">@style/Generic.Widget.ActionMode</item>
+        <item name="actionModeCloseButtonStyle">@style/Generic.Widget.ActionButton.CloseMode</item>
+    </style>
+</resources>

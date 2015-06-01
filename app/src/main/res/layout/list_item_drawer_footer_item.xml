@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_item_drawer_bg">
+
+    <TextView
+        android:id="@+id/text_view_drawer_footer_item"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="@string/dummy"
+        android:textSize="13sp"
+        android:textColor="@color/drawer_list_footer_item_text"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:gravity="center_vertical|start" />
+
+</RelativeLayout>

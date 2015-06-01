@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/bg_pattern"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:tileMode="repeat" />
+    </item>
+    <item>
+        <bitmap
+            android:src="@drawable/bg_mask"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:tileMode="disabled" />
+    </item>
+</layer-list>

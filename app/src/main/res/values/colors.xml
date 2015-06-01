@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_bg">#fcc3</color>
+    <color name="splash_text">#9000</color>
+
+    <color name="drawer_bg">#bf141411</color>
+
+    <color name="action_bar_bg">#fcc3</color>
+    <color name="board_empty_text">#9fff</color>
+
+    <color name="activity_post_bg">#bf141411</color>
+    <color name="button_post_bg_normal">#fcc3</color>
+    <color name="button_post_bg_hover">#fee6</color>
+
+    <color name="post_edit_text">#cfff</color>
+    <color name="post_edit_text_hint">#9fff</color>
+
+    <color name="post_list_item_bg_solid">#0fffffff</color>
+    <color name="post_list_item_bg_stroke">#1fffffff</color>
+    <color name="post_list_item_text_date_bg_solid">#4f020d14</color>
+
+    <color name="post_list_item_text_id">#ccc3</color>
+    <color name="post_list_item_text">#9fff</color>
+    <color name="post_list_item_text_date">#ccc3</color>
+
+    <color name="drawer_list_item_bg_hover">#5f6510</color>
+    <color name="drawer_list_item_bg_active">#51560d</color>
+    <color name="drawer_list_item_text">#cfff</color>
+    <color name="drawer_list_footer_item_text">#9fff</color>
+    <color name="drawer_blank_view_text">#9fff</color>
+
+    <color name="accent">#ccc3</color>
+
+    <color name="dark_blue_1">#ccc3</color>
+    <color name="dark_blue_2">#ccc3</color>
+    <color name="dark_blue_3">#ccc3</color>
+
+    <color name="red_1">#ccc3</color>
+    <color name="red_2">#ccc3</color>
+    <color name="red_3">#ccc3</color>
+</resources>
